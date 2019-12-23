@@ -1,2 +1,2 @@
 # CSS
-Website designs in CSS3.
+Website designs using CSS3.
